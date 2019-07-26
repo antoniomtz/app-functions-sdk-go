@@ -29,7 +29,7 @@ Using the following setup, this example advanced **App Functions Service** can b
 
 3. Run **Advanced App Functions** example
 
-   - [ ] Clone **[app-functions-sdk-go](https://github.com/edgexfoundry/app-functions-sdk-go)** repo
+   - [ ] Clone **[app-functions-sdk-go](https://github.com/antoniomtz/app-functions-sdk-go)** repo
    - [ ] run "**make build**"
    - [ ] cd to **examples/advanced-filter-convert-publish** folder
    - [ ] run "./**advanced-filter-convert-publish**"

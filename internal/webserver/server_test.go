@@ -20,9 +20,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/internal/common"
+	"github.com/antoniomtz/app-functions-sdk-go/internal/common"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/internal/telemetry"
+	"github.com/antoniomtz/app-functions-sdk-go/internal/telemetry"
 
 	"net/http"
 	"net/http/httptest"

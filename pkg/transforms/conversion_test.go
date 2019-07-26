@@ -25,8 +25,8 @@ import (
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/types"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/appcontext"
-	"github.com/edgexfoundry/app-functions-sdk-go/pkg/startup"
+	"github.com/antoniomtz/app-functions-sdk-go/appcontext"
+	"github.com/antoniomtz/app-functions-sdk-go/pkg/startup"
 	"github.com/edgexfoundry/go-mod-core-contracts/models"
 )
 

@@ -27,7 +27,7 @@ The end result from this application service is that it shows that the Applicati
 
 3. Run **simple-cbor-filter** example
 
-   - [ ] Clone **[app-functions-sdk-go](https://github.com/edgexfoundry/app-functions-sdk-go)** repo
+   - [ ] Clone **[app-functions-sdk-go](https://github.com/antoniomtz/app-functions-sdk-go)** repo
    - [ ] run "**make build**"
    - [ ] cd to **examples/simple-cbor-filter** folder
    - [ ] run "./**simple-cbor-filter**"

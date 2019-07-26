@@ -24,7 +24,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/ugorji/go/codec"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/appcontext"
+	"github.com/antoniomtz/app-functions-sdk-go/appcontext"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
 	"github.com/edgexfoundry/go-mod-core-contracts/models"

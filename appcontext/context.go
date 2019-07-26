@@ -20,7 +20,7 @@ import (
 	syscontext "context"
 	"errors"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/internal/common"
+	"github.com/antoniomtz/app-functions-sdk-go/internal/common"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/coredata"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"

@@ -26,7 +26,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/appcontext"
+	"github.com/antoniomtz/app-functions-sdk-go/appcontext"
 )
 
 type Encryption struct {

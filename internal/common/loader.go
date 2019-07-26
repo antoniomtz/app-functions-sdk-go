@@ -22,7 +22,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/internal"
+	"github.com/antoniomtz/app-functions-sdk-go/internal"
 
 	"github.com/BurntSushi/toml"
 )

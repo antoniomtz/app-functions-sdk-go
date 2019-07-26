@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/appcontext"
+	"github.com/antoniomtz/app-functions-sdk-go/appcontext"
 	"github.com/edgexfoundry/go-mod-core-contracts/models"
 )
 

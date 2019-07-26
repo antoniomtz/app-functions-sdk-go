@@ -19,9 +19,9 @@ package messagebus
 import (
 	"fmt"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/appcontext"
-	"github.com/edgexfoundry/app-functions-sdk-go/internal/common"
-	"github.com/edgexfoundry/app-functions-sdk-go/internal/runtime"
+	"github.com/antoniomtz/app-functions-sdk-go/appcontext"
+	"github.com/antoniomtz/app-functions-sdk-go/internal/common"
+	"github.com/antoniomtz/app-functions-sdk-go/internal/runtime"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/coredata"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"

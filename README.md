@@ -27,7 +27,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/edgexfoundry/app-functions-sdk-go/appsdk"
+	"github.com/antoniomtz/app-functions-sdk-go/appsdk"
 	"os"
 )
 
