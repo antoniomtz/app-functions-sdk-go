@@ -19,7 +19,7 @@ package common
 import (
 	"fmt"
 
-	"github.com/edgexfoundry/go-mod-messaging/pkg/types"
+	"github.com/antoniomtz/go-mod-messaging/pkg/types"
 )
 
 // WritableInfo ...

@@ -28,7 +28,7 @@ import (
 	"github.com/edgexfoundry/go-mod-core-contracts/clients"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
 	"github.com/edgexfoundry/go-mod-core-contracts/models"
-	"github.com/edgexfoundry/go-mod-messaging/pkg/types"
+	"github.com/antoniomtz/go-mod-messaging/pkg/types"
 )
 
 var lc logger.LoggingClient

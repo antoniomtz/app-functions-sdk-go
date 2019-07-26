@@ -27,7 +27,7 @@ import (
 	"github.com/edgexfoundry/go-mod-core-contracts/clients"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/coredata"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
-	"github.com/edgexfoundry/go-mod-messaging/pkg/types"
+	"github.com/antoniomtz/go-mod-messaging/pkg/types"
 )
 
 // Trigger implements Trigger to support Triggers
